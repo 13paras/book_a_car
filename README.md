@@ -4,6 +4,10 @@ BookaCar is a car rental application built with Vite + React. It allows users to
 for cars available for rent. The application also supports pagination for easy navigation through
 the list of cars.
 
+## Demo
+
+https://whimsical-toffee-1f41f4.netlify.app/
+
 ## Technologies Used
 
 - Vite: A build tool that aims to provide a faster and leaner development experience for modern web
